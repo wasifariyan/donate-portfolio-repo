@@ -42,3 +42,39 @@ body {
     border: 2px solid red;
     font-weight: 700;
 }
+
+.ammount {
+    text-align: center;
+}
+
+.button2 {
+    text-align: center;
+    padding: 20px;
+}
+
+.border2 {
+    display: flex;
+    padding-left: 350px;
+    text-align: center;
+}
+
+.food {
+    background-color: aliceblue;
+    padding-left: 10px;
+    font-weight: 700;
+    margin: 10px;
+}
+
+.shelter {
+    background-color: rgb(248, 223, 223);
+    padding: 10px;
+    font-weight: 700;
+    margin: 10px;
+}
+
+.education {
+    background-color: rgb(245, 231, 214);
+    padding: 10px;
+    font-weight: 700;
+    margin: 10px;
+}
